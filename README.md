@@ -56,9 +56,7 @@ streamlit run app.py
 ai-code-generator/
 │── app.py          # Streamlit web UI
 │── generate.py     # CLI tool for code generation & debugging
-│── api.py          # Handles AI API requests
 │── requirements.txt # Dependencies
-│── .env.example    # Environment variable template
 │── README.md       # Project documentation
 │── LICENSE         # License file
 ```
