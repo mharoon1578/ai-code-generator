@@ -15,7 +15,7 @@ This project is an AI-powered code generator that uses the **Groq API (Mixtral 8
 ## 🛠️ Installation
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-code-generator.git
+git clone https://github.com/mharoon1578/ai-code-generator.git
 cd ai-code-generator
 ```
 
